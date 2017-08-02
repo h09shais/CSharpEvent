@@ -1,0 +1,6 @@
+C:\Users\sis\Desktop\New folder SNI\ChangeEvent\ChangeEvent\bin\Debug\ChangeEvent.exe.config
+C:\Users\sis\Desktop\New folder SNI\ChangeEvent\ChangeEvent\bin\Debug\ChangeEvent.exe
+C:\Users\sis\Desktop\New folder SNI\ChangeEvent\ChangeEvent\bin\Debug\ChangeEvent.pdb
+C:\Users\sis\Desktop\New folder SNI\ChangeEvent\ChangeEvent\obj\Debug\ChangeEvent.csprojResolveAssemblyReference.cache
+C:\Users\sis\Desktop\New folder SNI\ChangeEvent\ChangeEvent\obj\Debug\ChangeEvent.exe
+C:\Users\sis\Desktop\New folder SNI\ChangeEvent\ChangeEvent\obj\Debug\ChangeEvent.pdb
